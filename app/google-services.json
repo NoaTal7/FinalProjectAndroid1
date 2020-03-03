@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9765748556",
+    "firebase_url": "https://trivia-android-course.firebaseio.com",
+    "project_id": "trivia-android-course",
+    "storage_bucket": "trivia-android-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9765748556:android:dde1a437f763d1f94259e9",
+        "android_client_info": {
+          "package_name": "com.example.sela.finalprojectandroid1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9765748556-q4djcckcpl4370imb50aebdnirlsal0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sela.finalprojectandroid1",
+            "certificate_hash": "e035206a6b43a8bdc537fe95472e7dcbaf5357af"
+          }
+        },
+        {
+          "client_id": "9765748556-h73s3qtpcdm1ac37d56dmho5h6977s7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdg4PhKUly67A5GaoOyUnQrEM7LcB9HMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9765748556-h73s3qtpcdm1ac37d56dmho5h6977s7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
